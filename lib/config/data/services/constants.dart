@@ -1,4 +1,4 @@
-const String stripePubishableKey = 'pk_test_51PfLWwKvapgGuXwEjeeOAilnsRtHrBcp2DiRAcsWCOjAWqTJIcZMVN9ARZ79RonKEZVIZHYuQ72hatPG2Ja9dJCu00E8gkNoNO';
-const String stripeSecretKey = 'sk_test_51PfLWwKvapgGuXwEO2KpP9bdJYM298Q6bSwv7xDvJu0OlSIAgUQ1VKgj9wpvQpT6lNb7oDWYG1XpmxcuqBeL2UnM00lzgUMZjM';
+const String stripePubishableKey = 'your_key';
+const String stripeSecretKey = 'your_key';
 
 
